@@ -1,0 +1,11 @@
+c:\users\jcheuk\documents\visual studio 2015\Projects\lab07\lab07\bin\Debug\lab07.exe.config
+c:\users\jcheuk\documents\visual studio 2015\Projects\lab07\lab07\bin\Debug\lab07.exe
+c:\users\jcheuk\documents\visual studio 2015\Projects\lab07\lab07\bin\Debug\lab07.pdb
+c:\users\jcheuk\documents\visual studio 2015\Projects\lab07\lab07\obj\Debug\lab07.exe
+c:\users\jcheuk\documents\visual studio 2015\Projects\lab07\lab07\obj\Debug\lab07.pdb
+C:\Users\jcheuk\Documents\Visual Studio 2015\Projects\lab07\lab07\obj\Debug\lab07.csprojResolveAssemblyReference.cache
+C:\Users\JoeC\Desktop\lab07\lab07\bin\Debug\lab07.exe.config
+C:\Users\JoeC\Desktop\lab07\lab07\obj\Debug\lab07.exe
+C:\Users\JoeC\Desktop\lab07\lab07\obj\Debug\lab07.pdb
+C:\Users\JoeC\Desktop\lab07\lab07\bin\Debug\lab07.exe
+C:\Users\JoeC\Desktop\lab07\lab07\bin\Debug\lab07.pdb

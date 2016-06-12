@@ -1,0 +1,32 @@
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\bin\Debug\client.exe.config
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\bin\Debug\client.exe
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\bin\Debug\client.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\bin\Debug\contract.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\bin\Debug\contract.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\MainWindow.g.cs
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\App.g.cs
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client_MarkupCompile.cache
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client_MarkupCompile.lref
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\MainWindow.baml
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client.g.resources
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client.Properties.Resources.resources
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client.exe
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\client\obj\Debug\client.pdb
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\MainWindow.g.cs
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\App.g.cs
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client_MarkupCompile.cache
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client_MarkupCompile.lref
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client.exe
+C:\Users\JoeC\Desktop\lab07\client\bin\Debug\client.exe.config
+C:\Users\JoeC\Desktop\lab07\client\bin\Debug\client.exe
+C:\Users\JoeC\Desktop\lab07\client\bin\Debug\client.pdb
+C:\Users\JoeC\Desktop\lab07\client\bin\Debug\contract.dll
+C:\Users\JoeC\Desktop\lab07\client\bin\Debug\contract.pdb
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\MainWindow.baml
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client.g.resources
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\JoeC\Desktop\lab07\client\obj\Debug\client.pdb

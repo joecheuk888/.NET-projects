@@ -1,0 +1,18 @@
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\bin\Debug\tickerservice.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\bin\Debug\tickerservice.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\bin\Debug\contract.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\bin\Debug\contract.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\obj\Debug\tickerservice.csprojResolveAssemblyReference.cache
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\obj\Debug\tickerservice.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\obj\Debug\tickerservice.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\bin\Debug\client.exe
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\tickerservice\bin\Debug\client.pdb
+C:\Users\JoeC\Desktop\lab07\tickerservice\bin\Debug\tickerservice.dll
+C:\Users\JoeC\Desktop\lab07\tickerservice\bin\Debug\tickerservice.pdb
+C:\Users\JoeC\Desktop\lab07\tickerservice\bin\Debug\client.exe
+C:\Users\JoeC\Desktop\lab07\tickerservice\bin\Debug\contract.dll
+C:\Users\JoeC\Desktop\lab07\tickerservice\bin\Debug\client.pdb
+C:\Users\JoeC\Desktop\lab07\tickerservice\bin\Debug\contract.pdb
+C:\Users\JoeC\Desktop\lab07\tickerservice\obj\Debug\tickerservice.csprojResolveAssemblyReference.cache
+C:\Users\JoeC\Desktop\lab07\tickerservice\obj\Debug\tickerservice.dll
+C:\Users\JoeC\Desktop\lab07\tickerservice\obj\Debug\tickerservice.pdb

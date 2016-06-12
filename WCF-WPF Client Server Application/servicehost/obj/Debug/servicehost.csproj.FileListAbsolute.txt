@@ -1,0 +1,28 @@
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\servicehost.exe.config
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\servicehost.exe
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\servicehost.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\contract.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\drawservice.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\tickerservice.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\contract.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\drawservice.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\tickerservice.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\obj\Debug\servicehost.csprojResolveAssemblyReference.cache
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\obj\Debug\servicehost.exe
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\obj\Debug\servicehost.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\client.exe
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\servicehost\bin\Debug\client.pdb
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\servicehost.exe.config
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\servicehost.exe
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\servicehost.pdb
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\client.exe
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\contract.dll
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\drawservice.dll
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\tickerservice.dll
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\client.pdb
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\contract.pdb
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\drawservice.pdb
+C:\Users\JoeC\Desktop\lab07\servicehost\bin\Debug\tickerservice.pdb
+C:\Users\JoeC\Desktop\lab07\servicehost\obj\Debug\servicehost.csprojResolveAssemblyReference.cache
+C:\Users\JoeC\Desktop\lab07\servicehost\obj\Debug\servicehost.exe
+C:\Users\JoeC\Desktop\lab07\servicehost\obj\Debug\servicehost.pdb

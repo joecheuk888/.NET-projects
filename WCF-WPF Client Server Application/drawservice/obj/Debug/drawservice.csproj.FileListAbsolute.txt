@@ -1,0 +1,14 @@
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\drawservice\bin\Debug\drawservice.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\drawservice\bin\Debug\drawservice.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\drawservice\obj\Debug\drawservice.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\drawservice\obj\Debug\drawservice.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\drawservice\bin\Debug\contract.dll
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\drawservice\bin\Debug\contract.pdb
+c:\Users\jcheuk\documents\visual studio 2015\Projects\lab07\drawservice\obj\Debug\drawservice.csprojResolveAssemblyReference.cache
+C:\Users\JoeC\Desktop\lab07\drawservice\bin\Debug\drawservice.dll
+C:\Users\JoeC\Desktop\lab07\drawservice\bin\Debug\drawservice.pdb
+C:\Users\JoeC\Desktop\lab07\drawservice\bin\Debug\contract.dll
+C:\Users\JoeC\Desktop\lab07\drawservice\bin\Debug\contract.pdb
+C:\Users\JoeC\Desktop\lab07\drawservice\obj\Debug\drawservice.csprojResolveAssemblyReference.cache
+C:\Users\JoeC\Desktop\lab07\drawservice\obj\Debug\drawservice.dll
+C:\Users\JoeC\Desktop\lab07\drawservice\obj\Debug\drawservice.pdb
